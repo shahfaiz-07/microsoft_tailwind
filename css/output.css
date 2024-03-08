@@ -447,7 +447,7 @@ video {
 @font-face {
   font-family: "Segoe UI";
 
-  src: url(fonts/s-normal.woff2) format(woff2);
+  src: url(../fonts/s-normal.woff2) format(woff2);
 
   font-weight: normal;
 }
@@ -455,7 +455,7 @@ video {
 @font-face {
   font-family: "Segoe UI";
 
-  src: url(fonts/s-bold.woff2) format(woff2);
+  src: url(../fonts/s-bold.woff2) format(woff2);
 
   font-weight: 700;
 }
@@ -463,7 +463,7 @@ video {
 @font-face {
   font-family: "Segoe UI";
 
-  src: url(fonts/s-semibold.woff2) format(woff2);
+  src: url(../fonts/s-semibold.woff2) format(woff2);
 
   font-weight: 600;
 }
@@ -471,7 +471,7 @@ video {
 @font-face {
   font-family: "Segoe UI";
 
-  src: url(fonts/s-light.woff2) format(woff2);
+  src: url(../fonts/s-light.woff2) format(woff2);
 
   font-weight: light;
 }
